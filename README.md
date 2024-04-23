@@ -2,13 +2,17 @@
 
 Push the h-encore exploit for PS VITA and PS TV through a Windows, macOS or Linux GUI.
 
+# Usage
+
+In releases page, there are 2 documents. A version include Bittersmile, you can download this version and follow a guide to use it.
+
 ## Credits
 
 see [CREDITS.md](CREDITS.md)
 
 ## Common usage
 
-1. Download a pre-built executable binary below.
+1. Download lastest zip.
 1. If you want to update PS Vita to firmware 3.60, 3.65 or 3.68 through USB connection, download related Update Packages [here](https://darthsternie.net/index.php/ps-vita-firmwares/) and extract the `PSP2UPDAT.PUP` to the same folder as this tool
 1. If you want to install VitaShell or enso by transferring in Content Manager, download prebuilt zip from `releases` tab and put in the same folder of this tool
 1. Connect your PS Vita to your computer via USB
@@ -16,11 +20,11 @@ see [CREDITS.md](CREDITS.md)
 
 ### Prebuilt binaries
 
-Download a pre-built executable binary below and follow instructions. Supported firmwares: 3.60, 3.61, 3.65-3.72
+Download a pre-built executable binary below and follow instructions. Supported firmwares: 3.60, 3.61, 3.65-3.74
 
 - For Windows get the [latest release](https://github.com/soarqin/finalhe/releases/latest)
   - if you have not installed USB driver for PS Vita: install `QcmaDriver_winusb.exe` (also on the releases page) 
-- For macOS, the last pre-built [release is v1.5](https://github.com/soarqin/finalhe/releases/tag/v1.5)
+- For macOS, the lastest version in my releases page.
 - For linux openSUSE
   1. add a home [repository](https://software.opensuse.org/package/finalhe) to your local software repositories:
       - `sudo addrepo -f http://download.opensuse.org/repositories/home:/seilerphilipp/openSUSE_Leap_15.0/`
